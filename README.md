@@ -8,13 +8,13 @@ In order to created an automated pipeline for intake of new data daily, one func
 
 ## Resources
 - Software:
- - Python version 3.7.10
- - Jupyter Notebook 6.3.0
- - PostgreSQL version 11
- - PgAdmin 4 version 5.7
+  - Python version 3.7.10
+  - Jupyter Notebook 6.3.0
+  - PostgreSQL version 11
+  - PgAdmin 4 version 5.7
 - Datasources:
- - wikipedia-movies.json
- - movies_metadata.csv and ratings.csv from Kaggle's MovieLens dataset
+  - wikipedia-movies.json
+  - movies_metadata.csv and ratings.csv from Kaggle's MovieLens dataset
 
 
 
